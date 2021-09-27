@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <!-- functional button colors -->
+    <color name="colorFunctionalButtonBG">#333333</color>
+    <color name="colorFunctionalButtonTxt">#c4c4c4</color>
+
+    <!-- number button colors -->
+    <color name="colorNumButtonBG">#c4c4c4</color>
+    <color name="colorNumButtonTxt">#333333</color>
+
+    <!-- equal button colors -->
+    <color name="colorEquButtonBG">#ec7701</color>
+    <color name="colorEquButtonTxt">#F6F0F0</color>
+
+</resources>
